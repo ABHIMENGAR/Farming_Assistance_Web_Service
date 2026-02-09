@@ -1,0 +1,17 @@
+:root {
+    /* Colors */
+    --primary: #4CAF50;
+    --primary-dark: #2E7D32;
+    --primary-light: #8BC34A;
+    --accent: #FF9800;
+    --bg-dark: #121212;
+    --glass-bg: rgba(255, 255, 255, 0.1);
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --text-main: #FFFFFF;
+    --text-muted: #E0E0E0;
+    
+    /* Effects */
+    --glass-blur: blur(12px);
+    --shadow-premium: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}

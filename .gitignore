@@ -1,0 +1,10 @@
+# Common PHP/Web ignore
+uploads/
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+.env
+.vscode/
+.idea/
