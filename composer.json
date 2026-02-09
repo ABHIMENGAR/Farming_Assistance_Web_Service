@@ -1,7 +1,0 @@
-{
-    "name": "farming-assistance-web-service",
-    "description": "Farming Assistance Web Service",
-    "require": {
-        "php": ">=7.4"
-    }
-}
